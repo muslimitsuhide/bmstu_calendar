@@ -28,7 +28,7 @@
 4. **Запустите скрипт**:
 
    ```sh
-   python main.py
+   python3 main.py
    ```
 
 5. **Вставьте ссылку на рассписание своей группы с сайта**: https://lks.bmstu.ru/schedule/
